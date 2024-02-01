@@ -1,0 +1,43 @@
+   0 whoiam
+   1 whoami
+   2 pwd
+   3 ls
+   4 ls -al
+   5 cd /home
+   6 mkdir animals
+   7 ls
+   8 cd animals
+   9 mkdir dogs
+  10 mkdir cats
+  11 mkdir fish
+  12 ls
+  13 cd dogs
+  14 touch pluto
+  15 ls
+  16 cd /home/animals/cats
+  17 touch garfield
+  18 ls
+  19 cd /home/animals/fish
+  20 touch nemo
+  21 ls
+  22 cd /tmp
+  23 touch adam
+  24 ls
+  25 cd /home
+  26 mkdir humans
+  27 ls
+  28 cd /tmp
+  29 touch evA
+  30 ls
+  31 mv /tmp/evA /opt/eve
+  32 cd /opt
+  33 ls
+  34 mv /opt/eve /home/humans
+  35 cd /home/humans
+  36 ls
+  37 cd /tmp
+  38 ls
+  39 cp /tmp/adam /home/humans
+  40 cd /home/humans
+  41 ls
+  42 history > history_25.txt
