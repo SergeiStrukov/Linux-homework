@@ -1,0 +1,8 @@
+   0 nano Sergeiscript3.sh
+   1 ls
+   2 ./Sergeiscript3.sh
+   3 chmod u+x Sergeiscript3.sh
+   4 ./Sergeiscript3.sh
+   5 nano Sergeiscript3.sh
+   6 nano /opt/150124/Sergey/Script.sh
+   7 history > /tmp/history.txt

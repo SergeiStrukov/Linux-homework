@@ -1,0 +1,2 @@
+bin:x:1:root,bin,daemon
+34

@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir -p /opt/150124/Sergey
+touch /opt/150124/Sergey/Script.sh
+cat /etc/group | head -n 2 /etc/group | tail -1 >> /opt/150124/Sergey/Script.sh
+ps -ef |wc -l >> /opt/150124/Sergey/Script.sh
